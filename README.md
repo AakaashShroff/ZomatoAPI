@@ -1,7 +1,7 @@
 # ZomatoAPI
 This project had aimed to order food with a voice command connected with my personal AI
 ----------------------------------------------------------------------------------------
-This script started of to be integrated with my personal AI assistant JARVIS which is currently being upgraded.
+This script started off to be integrated with my personal AI assistant JARVIS which is currently being upgraded.
 JARVIS once completed will be a separate repository
 This script was to ensure that I can order food using a voice command, eg: if I said I wanted a pizza, it would go through a dictionary and find a restaurant that had pizza as an option and automate ordering it.
 
