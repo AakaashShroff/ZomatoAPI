@@ -11,4 +11,4 @@ Here's the problem: half way developing this I realised that zomato does not sup
 
 Running it the first time asks maunal login and stores the cookies for next time so no manual login needed further till cookies expire.
 
-Luckily, swiggy has the option to order food from website so I am going to proceed with aq swiggy script that orders food for me based on my favourite food from a particular restaurant based on a voice command.
+Luckily, swiggy has the option to order food from website so I am going to proceed with a swiggy script that orders food for me based on my favourite food from a particular restaurant based on a voice command that JARVIS would process and use to place an order.
